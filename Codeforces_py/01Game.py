@@ -9,6 +9,6 @@ for i in range(t):
             cone+=1
     m=min(cone,czero)
     if(m%2==0):
-        print("net")
+        print("NET")
     else:
         print("DA")
